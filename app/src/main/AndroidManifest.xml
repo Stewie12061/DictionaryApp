@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.toeic">
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TOEIC1">
+        <activity android:name=".Bode750Activity" />
+        <activity android:name=".Bode500Activity" />
+        <activity android:name=".DetailTudienActivity" />
+        <activity android:name=".DetailSentenActivity" />
+        <activity android:name=".ListeningActivity" />
+        <activity android:name=".KetquaActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Bode250Activity" />
+        <activity android:name=".QuestionActivity" />
+        <activity android:name=".TestActivity" />
+        <activity android:name=".SearchTudienActivity" />
+        <!--
+               Set to true if your app is Standalone, that is, it does not require the handheld
+               app to run.
+        -->
+        <activity android:name=".StartActivity" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.TOEIC1"></activity>
+    </application>
+
+</manifest>

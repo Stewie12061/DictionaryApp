@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/mnuHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item android:title="List"
+        android:id="@+id/mnuList"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        />
+    <item android:title="Vocabulary"
+        android:id="@+id/mnuNote"
+        android:icon="@drawable/ic_baseline_sticky_note_2_24"
+        />
+    <item android:title="Translate"
+        android:id="@+id/mnuTranslate"
+        android:icon="@drawable/ic_baseline_translate_24"
+        />
+</menu>

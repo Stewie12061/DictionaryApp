@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TOEIC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_de">SelectDeActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_tu_dien_anh_viet">TuDienAnhVietActivity</string>
+    <string name="title_activity_tu_dien_viet_anh">TuDienVietAnhActivity</string>
+
+    <string name="cauhoi">
+        Polyester
+Easily assembles with a friend, no tools needed, in under 20 minutes
+Modern armless design with stress-free fabrics, durable and easy-to-clean
+A naturally-strong wood frame is wrapped in cozy, supportive foam cushioning
+Smartly shipped in one box - all parts for assembling your sofa are located in the enclosed compartment on the bottom of the base section
+Worry-free 1 year warranty</string>
+    <string name="option1"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige</string>
+    <string name="option2"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige</string>
+    <string name="option3"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige</string>
+    <string name="option4"> Zinus Jocelyn Contemporary 65 Inch Armless Sofa, Beige</string>
+
+    <string name="product_tow">
+
+L-shaped gaming desk is made out of a beautiful MDF that appearance and functionality are classy and efficient in home/office
+L shaped gaming desk in 3 piece,easy switch the two sides as your habit,which take full advantage of space and save space fits nicely into a room without taking up a ton of space
+L desk for school in very sturdy frame that is designed in an edgy architectural look to support all your office essentials,no serious shaking or movement, very stable and secure
+L desk foot cups height adjustment to keep the legs in same height, strong legs hold pc on top along with the monitors and peripherals, 2 monitors is available
+L shaped desk size :Overall dimensions are 58.1‘’(L) x 44.3"(W) x 29.13"(H), 19.1 inch in deep,includes necessary tools and instructions ,please install as Instructions steps and avoid big moving
+    </string>
+    <string name="name_product_tow">  GreenForest L-Shape Corner </string>
+    <string name="product_three">
+
+        WINGBACK CHAIR: Our Clarice Tall Wingback Fabric Accent Chair in light beige will meet all your indoor furniture needs. This high-class lounge chair pairs perfectly with an ottoman and comes in a variety of colors to suit any style.
+CLASSIC ARMLESS STYLE: At Great Deal Furniture, we bring you the best furniture available. Our stylish chair has timeless wing features on its high back. Its curved design is the perfect focal point for any room, and makes a great location for sitting, reading, and relaxing.
+HIGH-QUALITY FABRIC: To give your space a cozy yet traditional feel, we created our Clarice chair with a tasteful, tufted design. Our chair boasts a linen and polyester fabric blend and durable wood legs, making this chair easy to care for and built to last. This seat will soon be your new favorite spot in the house.
+LIVING ROOM and MORE: Our elegant wingback chair is the perfect addition to any house or apartment. Use it in your TV room, office, dining room, or bedroom. Adults and kids alike will love this new luxury chair that can be moved easily to fit your space. This modern seating option will add a touch of classic beauty to your home.
+DIMENSIONS: Knowing the dimensions of new furniture is essential to ensure that you get something that fits your needs and your space. The chair itself is 27.25” L x 33.75” W x 38.50” H, and the seat is 21.25” D x 27.5” W x 18” H. With this chic chair, you’ll always have a comfortable place to rest after a long day. Light assembly required.
+    </string>
+    <string name="name_product_three">   Christopher Knight Home </string>
+    <string name="product_four">
+        Sealy, 8-Inch, Memory Foam bed in a box, Adaptive Comfort Layers, Medium-Firm Feel, Twin
+        bed in a box: 8-inch twin high density memory foam mattress built for comfort that lasts, year after year. A winning combination of CertiPUR-US Certified materials provide excellent pressure relief and support that “hugs you" and keeps you healthy as you rest. Medium-firm feel mattress is ideal for all sleep positions
+CONFORMING FOAM: 2 inches of premium adaptive memory foam adapts to your body's shape to provide conforming comfort and pressure relief. 6 inches of high-grade conventional foam offers a durable base to promote cooling airflow and support throughout the night for an "on the bed" feel. 10 and 12-inch thick mattresses deliver even greater levels of pressure relief with 3 inches of premium adaptive memory foam.
+100 NIGHT RISK-FREE TRIAL: IF YOU ARE UNSATISFIED WITH THIS MATTRESS, YOU CAN RETURN IT FOR A FULL REFUND UP TO 100 DAYS FROM DATE OF RECEIPT
+10 YEAR LIMITED WARRANTY: Sealy mattresses are designed and assembled in the USA to ensure the highest quality. Your purchase is protected by a 10 year limited warranty with no movers needed. This compressed mattress is packaged in a box, which allows it to be easily delivered and will expand to it's full lofty shape inside your home.
+YOUR NEW MATTRESS: Getting Acquainted with your new product: in the beginning it may feel different than expected. We recommend sleeping on it for a few weeks in order to give your mattress a chance to “break-in” to the way you sleep. As with most new purchases, any “new product smell” that you may experience is harmless and will dissipate in a couple of weeks.
+REMOVABLE COMFORT COVER: Mattress includes a soft, circular knit cover layer that is removable for your convenience
+    </string>
+    <string name="name_product_four">  Sealy</string>
+    <string name="product_five">
+
+        Keep your room clutter free with the SystemBuild Kendall 16” Stackable Storage Cabinet
+The narrow width of this Storage Cabinet makes it ideal for small spaces, such as a kitchen or laundry room
+Two of these Storage Cabinets can be stacked on top of one another, creating additional space (each cabinet sold separately)
+16” Storage Cabinet coordinates with other pieces in the SystemBuild Kendall collection, providing a customized storage solution for any room in your home
+Cabinet features 2 adjustable and 1 fixed shelf to customize your storage
+    </string>
+    <string name="name_product_five">   Ameriwood Kendall </string>
+
+
+</resources>

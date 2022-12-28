@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvTopicVocabulary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tvTopicVocabulary"
+        app:layout_constraintTop_toBottomOf="@+id/tvTopicVocabulary" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+
+        app:layout_constraintStart_toStartOf="@+id/tv1"
+        app:layout_constraintTop_toBottomOf="@+id/tv1" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv2"
+        app:layout_constraintTop_toBottomOf="@+id/tv2" />
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv3"
+        app:layout_constraintTop_toBottomOf="@+id/tv3" />
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv4"
+        app:layout_constraintTop_toBottomOf="@+id/tv4" />
+
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv5"
+        app:layout_constraintTop_toBottomOf="@+id/tv5" />
+
+    <TextView
+        android:id="@+id/tv7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv6"
+        app:layout_constraintTop_toBottomOf="@+id/tv6" />
+
+    <TextView
+        android:id="@+id/tv8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv7"
+        app:layout_constraintTop_toBottomOf="@+id/tv7" />
+
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/roboto_regular"
+        android:text="TextView"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/tv8"
+        app:layout_constraintTop_toBottomOf="@+id/tv8" />
+</androidx.constraintlayout.widget.ConstraintLayout>
